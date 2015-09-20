@@ -1,2 +1,2 @@
 # apcompsci3
-Class website for AP Computer Science A, Section 3
+BNDS course website for AP Computer Science A, Section 3
