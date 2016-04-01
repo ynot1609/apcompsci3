@@ -50,13 +50,10 @@ public class SkyView
         {
             for (int col = startCol; col <= endCol; col++)
             {
-                System.out.println(view[row][col]);
                 sum += view[row][col];
                 dataPoints++;
             }
         }
-        System.out.println("sum = " + sum);     
-        System.out.println("dataPoints = " + dataPoints);
         return sum/dataPoints;
     }
 
