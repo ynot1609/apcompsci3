@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=java.lang.String\ scrambleWord(java.lang.String)
+comment1.params=wordList
+comment1.target=void\ scrambleOrRemove(java.util.List)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
