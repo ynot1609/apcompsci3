@@ -423,3 +423,18 @@ Small Device Styles
   }
 
 }
+
+/*******************************************************************************
+End User Customized Styles
+*******************************************************************************/
+
+nav a{
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #F2F2F2;
+}
+
+
