@@ -15,8 +15,7 @@ title: AP Computer Science A, Section 3 | BNDS
 
 ## Applications:
 
-+ Installing the **DrJava** lightweight integrated development environment
-+ [DrJava IDE](http://drjava.org)
++ Installing the **DrJava** lightweight integrated development environment: [http://drjava.org](http://drjava.org)
 
 ## Grade Weighting:
 
