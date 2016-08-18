@@ -22,4 +22,9 @@ title: Textbooks
 
 + PDF file(8.3MB): [bluePelicanJava701a.pdf](/apcompsci3/assets/bluePelicanJava701a.pdf)
 
+---
+
+![alt text](/apcompsci3/images/hfjBanner.png "HFJ Book")
+
++ PDF file(34MB): [headFirstJava2e.pdf](/apcompsci3/assets/headFirstJava2e.pdf)
 
