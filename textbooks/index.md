@@ -16,6 +16,10 @@ title: Textbooks
 + PDF file(1.3MB): [chapter08SortingSearching7e.pdf](/apcompsci3/assets/chapter08SortingSearching7e.pdf)
 + PDF file(1.3MB): [chapter09Labs7e.pdf](/apcompsci3/assets/chapter09Labs7e.pdf)
 
+---
 
+![alt text](/apcompsci3/images/bpjBanner.png "BPJ Book")
+
++ PDF file(8.3MB): [bluePelicanJava701a.pdf](/apcompsci3/assets/bluePelicanJava701a.pdf)
 
 
