@@ -8,9 +8,9 @@ title: AP Computer Science A, Section 3 | BNDS
 + *Section Number:* 3
 + *Meeting Place:* Room 308
 + *Instructor:* Mr. Alwin Tareen
-+ *Course Website:* [http://altareen.github.io/apcompsci3](http://altareen.github.io/apcompsci3)
-+ *Code Repository:* [https://github.com/altareen/apcompsci3](https://github.com/altareen/apcompsci3)
-+ *Grading Website:* [http://www.engrade.com](http://www.engrade.com)
++ *Course Website:* <http://altareen.github.io/apcompsci3>
++ *Code Repository:* <https://github.com/altareen/apcompsci3>
++ *Grading Website:* <http://www.engradepro.com>
 + *Academic Assistance:* Mon - Fri, 4:20PM, Room 308
 
 ## Applications:
