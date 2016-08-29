@@ -16,7 +16,6 @@ title: AP Computer Science A, Section 3 | BNDS
 ## Applications:
 
 + The **BlueJ** lightweight integrated development environment: <http://www.bluej.org>
----
 + A tutorial for downloading and installing **BlueJ**:
 + PDF file(1.6MB): [apCompSciInstallBlueJTutorial.pdf](/apcompsci3/assets/apCompSciInstallBlueJTutorial.pdf)
 
