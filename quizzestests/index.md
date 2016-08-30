@@ -14,7 +14,9 @@ title: Quizzes/Tests
 + A multiple choice quiz on Java's classes and objects.
 + Log into [EngradePro](http://www.engradepro.com) and select the assignment link, "Quiz 2".
 -->
+
 ## Tests:
+
 <!--
 + **Test 1:** Thursday, October 15, 2015
 + **This test will cover the following material:** Barron's Textbook, Chapter 1. Blue Pelican Textbook, Lessons 1, 2, 4, 8, 9, 11, 14.
