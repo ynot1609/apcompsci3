@@ -14,7 +14,6 @@ title: Homework Assignments
 + BlueJ Project ZIP file(4KB): [Homework01.zip](/apcompsci3/assets/Homework01.zip)
 
 ---
-
 <!--
 + **Homework 1:** Due Monday, September 5, 2016
 + Using the assignment operator.
