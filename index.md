@@ -28,7 +28,7 @@ title: AP Computer Science A, Section 3 | BNDS
 ## Syllabus:
 
 + Course syllabus that describes the grading, homework and plagiarism policies:
-+ PDF file(56KB): [apCompSci3Syllabus.pdf](/apcompsci3/assets/apCompSci3Syllabus.pdf)
++ PDF file(56KB): [apCompSciASyllabusSec3.pdf](/apcompsci3/assets/apCompSciASyllabusSec3.pdf)
 
 ---
 
