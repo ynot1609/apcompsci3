@@ -12,10 +12,5 @@ public class InitializeVariables
         System.out.println("High temperature = " + temperature);
         System.out.println("Test grade = " + testGrade);
         System.out.println("The cost of the shirt = " + cost);
-        
-    
-    
-    
-    
     }
 }
