@@ -22,3 +22,9 @@ title: Homework Assignments
 
 ---
 
++ **Homework 3:** Due Friday, September 16, 2016
++ Counting fruit.
++ PDF file(63KB): [apCompSciHomework03.pdf](/apcompsci3/assets/apCompSciHomework03.pdf)
++ BlueJ Project ZIP file(4KB): [Homework03.zip](/apcompsci3/assets/Homework03.zip)
+
+---
