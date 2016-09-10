@@ -28,3 +28,12 @@ title: Homework Assignments
 + BlueJ Project ZIP file(4KB): [Homework03.zip](/apcompsci3/assets/Homework03.zip)
 
 ---
+
+
++ **Homework 4:** Due Friday, September 16, 2016
++ Unit conversions.
++ PDF file(59KB): [apCompSciHomework04.pdf](/apcompsci3/assets/apCompSciHomework04.pdf)
++ BlueJ Project ZIP file(4KB): [Homework04.zip](/apcompsci3/assets/Homework04.zip)
+
+---
+
