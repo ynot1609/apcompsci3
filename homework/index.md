@@ -29,7 +29,6 @@ title: Homework Assignments
 
 ---
 
-
 + **Homework 4:** Due Friday, September 16, 2016
 + Unit conversions.
 + PDF file(59KB): [apCompSciHomework04.pdf](/apcompsci3/assets/apCompSciHomework04.pdf)
