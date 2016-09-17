@@ -36,3 +36,12 @@ title: Homework Assignments
 
 ---
 
++ **Homework 5:** Due Friday, September 23, 2016
++ The Richter scale.
++ PDF file(81KB): [apCompSciHomework05.pdf](/apcompsci3/assets/apCompSciHomework05.pdf)
++ BlueJ Project ZIP file(4.5KB): [Homework05.zip](/apcompsci3/assets/Homework05.zip)
+
+---
+
+
+
