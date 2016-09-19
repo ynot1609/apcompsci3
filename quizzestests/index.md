@@ -3,12 +3,11 @@ layout: default
 title: Quizzes/Tests
 ---
 ## Quizzes:
-<!--
-+ **Quiz 1:** Due Monday, September 21, 2015
-+ A multiple choice quiz on Java's data types.
-+ Log into [EngradePro](http://www.engradepro.com) and select the assignment link, "Quiz 1".
 
----
++ **Quiz 1:** Friday, September 23, 2016
++ A short quiz on Java's variables, data types, and operators.
+
+<!---
 
 + **Quiz 2:** Due Monday, November 2, 2015
 + A multiple choice quiz on Java's classes and objects.
