@@ -1,3 +1,25 @@
 #BlueJ package file
-#Tue Sep 20 15:01:43 CST 2016
+objectbench.height=100
+objectbench.width=106
+package.editor.height=421
+package.editor.width=173
+package.editor.x=2173
+package.editor.y=248
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+target1.editor.height=621
+target1.editor.width=1180
+target1.editor.x=2503
+target1.editor.y=252
+target1.height=50
+target1.name=WhilePractice
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=120
+target1.x=10
+target1.y=110
