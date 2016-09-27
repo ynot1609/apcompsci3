@@ -43,5 +43,10 @@ title: Homework Assignments
 
 ---
 
++ **Homework 6:** Due Friday, October 14, 2016
++ The Hailstone sequence.
++ PDF file(51KB): [apCompSciHomework06.pdf](/apcompsci3/assets/apCompSciHomework06.pdf)
++ BlueJ Project ZIP file(4.4KB): [Homework06.zip](/apcompsci3/assets/Homework06.zip)
 
+---
 
