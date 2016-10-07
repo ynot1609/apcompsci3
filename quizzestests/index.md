@@ -7,11 +7,14 @@ title: Quizzes/Tests
 + **Quiz 1:** Friday, September 23, 2016
 + A short quiz on Java's variables, data types, and operators.
 
+---
+
 + **Quiz 2:** Due Friday, October 14, 2016
 + A multiple choice quiz on Java's syntax.
 + Log into [EngradePro](http://www.engradepro.com) and select the assignment
 link, "Java Quiz 2: Syntax".
 
+---
 
 ## Tests:
 
