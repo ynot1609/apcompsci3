@@ -20,12 +20,12 @@ link, "Java Quiz 2: Syntax".
 
 + **Test 1:** Friday, October 14, 2015
 + **This test will cover the following material:**
-+ Primitive data types
-+ Arithmetic and logical operators
-+ Assignment operators
-+ Conditional statements(if, else if, else)
-+ Looping statements(while, for)
-+ Number conversions
+  + Primitive data types
+  + Arithmetic and logical operators
+  + Assignment operators
+  + Conditional statements(if, else if, else)
+  + Looping statements(while, for)
+  + Number conversions
 
 ---
 
