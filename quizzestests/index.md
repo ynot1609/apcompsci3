@@ -18,7 +18,7 @@ link, "Java Quiz 2: Syntax".
 
 ## Tests:
 
-+ **Test 1:** Friday, October 14, 2015
++ **Test 1:** Friday, October 14, 2016
 + **This test will cover the following material:**
   + Primitive data types
   + Arithmetic and logical operators
