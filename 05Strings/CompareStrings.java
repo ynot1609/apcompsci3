@@ -9,7 +9,7 @@ public class CompareStrings
         
         String letter = "g";
         String character = "T";
-        int outcome = letter.compareTo(sentence);
+        int outcome = letter.compareTo(character);
         System.out.println(outcome);
         
         String number = "34298";
