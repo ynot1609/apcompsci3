@@ -50,3 +50,13 @@ title: Homework Assignments
 
 ---
 
++ **Homework 7:** Due Friday, October 28, 2016
++ Encryption of a message.
++ PDF file(44KB): [apCompSciHomework07.pdf](/apcompsci3/assets/apCompSciHomework07.pdf)
++ BlueJ Project ZIP file(4.3KB): [Homework07.zip](/apcompsci3/assets/Homework07.zip)
+
+---
+
+
+
+
