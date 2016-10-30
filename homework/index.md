@@ -57,6 +57,19 @@ title: Homework Assignments
 
 ---
 
++ **Homework 8:** Due Friday, November 4, 2016
++ Determining the minimum value from an array of integers.
++ PDF file(47KB): [apCompSciHomework08.pdf](/apcompsci3/assets/apCompSciHomework08.pdf)
++ BlueJ Project ZIP file(4.7KB): [Homework08.zip](/apcompsci3/assets/Homework08.zip)
+
+---
+
+
+
+
+
+
+
 
 
 
