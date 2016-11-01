@@ -2,6 +2,7 @@
 layout: default
 title: Homework Assignments
 ---
+<!--
 ## In-class Assignments:
 
 + **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
@@ -17,7 +18,7 @@ title: Homework Assignments
 + BlueJ Project ZIP file(KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
 
 ---
-
+-->
 ## Homework Assignments:
 
 + [**Web-CAT**:](http://ec2-54-65-207-33.ap-northeast-1.compute.amazonaws.com:8080/Web-CAT/WebObjects/Web-CAT.woa) An automated grading platform for programming assignments.
