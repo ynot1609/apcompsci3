@@ -2,6 +2,22 @@
 layout: default
 title: Homework Assignments
 ---
+## In-class Assignments:
+
++ **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
++ Evens in a 1-D array.
++ PDF file(KB): [apCompSciAssignment01.pdf](/apcompsci3/assets/apCompSciAssignment01.pdf)
++ BlueJ Project ZIP file(KB): [Assignment01.zip](/apcompsci3/assets/Assignment01.zip)
+
+---
+
++ **Assignment 2:** Due Tuesday, November 8, 2016 at 4:15PM
++ Smoothing a signal in a 1-D array.
++ PDF file(KB): [apCompSciAssignment02.pdf](/apcompsci3/assets/apCompSciAssignment02.pdf)
++ BlueJ Project ZIP file(KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
+
+---
+
 ## Homework Assignments:
 
 + [**Web-CAT**:](http://ec2-54-65-207-33.ap-northeast-1.compute.amazonaws.com:8080/Web-CAT/WebObjects/Web-CAT.woa) An automated grading platform for programming assignments.
