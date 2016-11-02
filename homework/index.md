@@ -4,6 +4,9 @@ title: Homework Assignments
 ---
 
 ## In-class Assignments:
+
++ Coming soon!
+
 <!--
 + **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
 + Evens in a 1-D array.
