@@ -2,9 +2,9 @@
 layout: default
 title: Homework Assignments
 ---
-<!--
-## In-class Assignments:
 
+## In-class Assignments:
+<!--
 + **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
 + Evens in a 1-D array.
 + PDF file(KB): [apCompSciAssignment01.pdf](/apcompsci3/assets/apCompSciAssignment01.pdf)
