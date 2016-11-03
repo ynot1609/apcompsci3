@@ -85,6 +85,12 @@ title: Homework Assignments
 
 ---
 
++ **Homework 9:** Due Friday, November 11, 2016
++ Calculating the average acidity level of coffee samples.
++ PDF file(107KB): [apCompSciHomework09.pdf](/apcompsci3/assets/apCompSciHomework09.pdf)
++ BlueJ Project ZIP file(4.9KB): [Homework09.zip](/apcompsci3/assets/Homework09.zip)
+
+---
 
 
 
