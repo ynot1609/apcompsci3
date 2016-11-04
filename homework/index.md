@@ -9,16 +9,16 @@ title: Homework Assignments
 
 <!--
 + **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
-+ Evens in a 1-D array.
-+ PDF file(KB): [apCompSciAssignment01.pdf](/apcompsci3/assets/apCompSciAssignment01.pdf)
-+ BlueJ Project ZIP file(KB): [Assignment01.zip](/apcompsci3/assets/Assignment01.zip)
++ Smoothing an audio signal.
++ PDF file(45KB): [apCompSciAssignment01.pdf](/apcompsci3/assets/apCompSciAssignment01.pdf)
++ BlueJ Project ZIP file(4.8KB): [Assignment01.zip](/apcompsci3/assets/Assignment01.zip)
 
 ---
 
 + **Assignment 2:** Due Tuesday, November 8, 2016 at 4:15PM
-+ Smoothing a signal in a 1-D array.
-+ PDF file(KB): [apCompSciAssignment02.pdf](/apcompsci3/assets/apCompSciAssignment02.pdf)
-+ BlueJ Project ZIP file(KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
++ Smoothing an image.
++ PDF file(45KB): [apCompSciAssignment02.pdf](/apcompsci3/assets/apCompSciAssignment02.pdf)
++ BlueJ Project ZIP file(5.6KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
 
 ---
 -->
