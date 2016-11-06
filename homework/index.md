@@ -11,14 +11,14 @@ title: Homework Assignments
 + BlueJ Project ZIP file(4.8KB): [Assignment01.zip](/apcompsci3/assets/Assignment01.zip)
 
 ---
-
+<!--
 + **Assignment 2:** Due Tuesday, November 8, 2016 at 4:15PM
 + Smoothing an image.
 + PDF file(45KB): [apCompSciAssignment02.pdf](/apcompsci3/assets/apCompSciAssignment02.pdf)
 + BlueJ Project ZIP file(5.6KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
 
 ---
-
+-->
 ## Homework Assignments:
 
 + [**Web-CAT**:](http://ec2-54-65-207-33.ap-northeast-1.compute.amazonaws.com:8080/Web-CAT/WebObjects/Web-CAT.woa) An automated grading platform for programming assignments.
