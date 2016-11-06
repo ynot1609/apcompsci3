@@ -5,9 +5,6 @@ title: Homework Assignments
 
 ## In-class Assignments:
 
-+ Coming soon!
-
-<!--
 + **Assignment 1:** Due Monday, November 7, 2016 at 4:15PM
 + Smoothing an audio signal.
 + PDF file(45KB): [apCompSciAssignment01.pdf](/apcompsci3/assets/apCompSciAssignment01.pdf)
@@ -21,7 +18,6 @@ title: Homework Assignments
 + BlueJ Project ZIP file(5.6KB): [Assignment02.zip](/apcompsci3/assets/Assignment02.zip)
 
 ---
--->
 
 ## Homework Assignments:
 
