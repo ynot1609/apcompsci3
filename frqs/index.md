@@ -11,6 +11,8 @@ title: Free Response Questions
 + [piggyBank03.png](/apcompsci3/assets/piggyBank03.png)
 + [piggyBank04.png](/apcompsci3/assets/piggyBank04.png)
 
+---
+
 + **The Compass Class:**
 + [compass01.png](/apcompsci3/assets/compass01.png)
 + [compass02.png](/apcompsci3/assets/compass02.png)
