@@ -28,3 +28,9 @@ title: Textbooks
 
 + PDF file(34MB): [headFirstJava2e.pdf](/apcompsci3/assets/headFirstJava2e.pdf)
 
+---
+
+### Introduction to Programming Using Java, David J. Eck
+
++ PDF file(6.1MB): [introToProgrammingUsingJava7.0DavidJEck.pdf](/apcompsci3/assets/introToProgrammingUsingJava7.0DavidJEck.pdf)
+
