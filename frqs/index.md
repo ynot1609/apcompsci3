@@ -21,6 +21,15 @@ title: Free Response Questions
 
 ---
 
++ **The Rectangle Class:**
++ [rectangle01.png](/apcompsci3/assets/rectangle01.png)
++ [rectangle02.png](/apcompsci3/assets/rectangle02.png)
++ [rectangle03.png](/apcompsci3/assets/rectangle03.png)
++ [rectangle04.png](/apcompsci3/assets/rectangle04.png)
++ [rectangle05.png](/apcompsci3/assets/rectangle05.png)
+
+---
+
 ## AP Free Response Questions:
 <!--
 + 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
