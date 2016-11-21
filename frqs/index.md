@@ -30,6 +30,13 @@ title: Free Response Questions
 
 ---
 
++ **The Assignment Class:**
++ [assignment01.png](/apcompsci3/assets/assignment01.png)
++ [assignment02.png](/apcompsci3/assets/assignment02.png)
++ [assignment03.png](/apcompsci3/assets/assignment03.png)
+
+---
+
 ## AP Free Response Questions:
 <!--
 + 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
