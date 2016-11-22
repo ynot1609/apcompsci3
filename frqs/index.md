@@ -37,7 +37,6 @@ title: Free Response Questions
 
 ---
 
-<!--
 + **The SlotMachine Class:**
 + [slotMachine01.png](/apcompsci3/assets/slotMachine01.png)
 + [slotMachine02.png](/apcompsci3/assets/slotMachine02.png)
@@ -45,7 +44,6 @@ title: Free Response Questions
 + [slotMachine04.png](/apcompsci3/assets/slotMachine04.png)
 
 ---
--->
 
 ## AP Free Response Questions:
 <!--
