@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SportsEvent()
+comment1.params=index\ points
+comment1.target=void\ addScore(int,\ double)
+comment2.params=
+comment2.target=double\ lowest()
+comment3.params=
+comment3.target=double\ highest()
+comment4.params=
+comment4.target=double\ average()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
