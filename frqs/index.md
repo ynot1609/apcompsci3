@@ -54,6 +54,13 @@ title: Free Response Questions
 
 ---
 
++ **The Dance Class:**
++ [dance01.png](/apcompsci3/assets/dance01.png)
++ [dance02.png](/apcompsci3/assets/dance02.png)
++ [dance03.png](/apcompsci3/assets/dance03.png)
+
+---
+
 ## AP Free Response Questions:
 <!--
 + 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
