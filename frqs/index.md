@@ -61,6 +61,13 @@ title: Free Response Questions
 
 ---
 
++ **The Kennel Class:**
++ [kennel01.png](/apcompsci3/assets/kennel01.png)
++ [kennel02.png](/apcompsci3/assets/kennel02.png)
++ [kennel03.png](/apcompsci3/assets/kennel03.png)
+
+---
+
 ## AP Free Response Questions:
 
 + 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
