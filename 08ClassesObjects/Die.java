@@ -6,7 +6,7 @@ public class Die
     // constructor
     public Die()
     {
-        faceValue = 0;
+        faceValue = 1;
     }
     
     // methods
