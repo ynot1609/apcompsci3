@@ -65,6 +65,7 @@ title: Free Response Questions
 + [kennel01.png](/apcompsci3/assets/kennel01.png)
 + [kennel02.png](/apcompsci3/assets/kennel02.png)
 + [kennel03.png](/apcompsci3/assets/kennel03.png)
++ [kennel04.png](/apcompsci3/assets/kennel04.png)
 
 ---
 
