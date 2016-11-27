@@ -95,6 +95,12 @@ title: Homework Assignments
 
 ---
 
++ **Homework 11:** Due Sunday, December 4, 2016
++ Creating a CellPhone class.
++ PDF file(52KB): [apCompSciHomework11.pdf](/apcompsci3/assets/apCompSciHomework11.pdf)
++ BlueJ Project ZIP file(11KB): [Homework11.zip](/apcompsci3/assets/Homework11.zip)
+
+---
 
 
 
