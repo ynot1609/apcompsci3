@@ -3,6 +3,14 @@ layout: default
 title: Free Response Questions
 ---
 
+## AP Free Response Questions:
+
++ 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
++ 2010 Trail BlueJ Project ZIP file(4KB): [2010Trail.zip](/apcompsci3/assets/2010Trail.zip)
+<!-- + 2010 Cookie BlueJ Project ZIP file(4KB): [2010frqCookie.zip](/apcompsci3/assets/2010frqCookie.pdf) -->
+
+---
+
 ## Case Studies: Object-Oriented Programming
 
 + **The PiggyBank Class:**
@@ -69,11 +77,11 @@ title: Free Response Questions
 
 ---
 
-## AP Free Response Questions:
-
-+ 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
-+ 2010 Trail BlueJ Project ZIP file(4KB): [2010Trail.zip](/apcompsci3/assets/2010Trail.zip)
-<!-- + 2010 Cookie BlueJ Project ZIP file(4KB): [2010frqCookie.zip](/apcompsci3/assets/2010frqCookie.pdf) -->
++ **The Basketball Class:**
++ [basketball01.png](/apcompsci3/assets/basketball01.png)
++ [basketball02.png](/apcompsci3/assets/basketball02.png)
++ [basketball03.png](/apcompsci3/assets/basketball03.png)
++ [basketball04.png](/apcompsci3/assets/basketball04.png)
 
 ---
 
