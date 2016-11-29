@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kennel()
+comment1.params=i\ d
+comment1.target=void\ addDogs(int,\ Dog)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
