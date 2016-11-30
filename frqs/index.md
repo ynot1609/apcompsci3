@@ -11,6 +11,11 @@ title: Free Response Questions
 
 ---
 
++ 2011 Free Response PDF file(298KB): [ap2011FRQ_CompSciA_Sound_Fuel_Cipher.pdf](/apcompsci3/assets/ap2011FRQ_CompSciA_Sound_Fuel_Cipher.pdf)
++ 2011 Sound BlueJ Project ZIP file(4.3KB): [2011Sound.zip](/apcompsci3/assets/2011Sound.zip)
+
+---
+
 ## Case Studies: Object-Oriented Programming
 
 + **The PiggyBank Class:**
