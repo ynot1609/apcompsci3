@@ -29,6 +29,12 @@ link, "Java Quiz 2: Syntax".
 
 ---
 
++ **Test 2:** Friday, December 16, 2016
++ **This test will cover the following material:**
+  + Classes and objects
+
+---
+
 <!--
 + **Test 1:** Thursday, October 15, 2015
 + **This test will cover the following material:** Barron's Textbook, Chapter 1. Blue Pelican Textbook, Lessons 1, 2, 4, 8, 9, 11, 14.
