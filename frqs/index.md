@@ -16,6 +16,11 @@ title: Free Response Questions
 
 ---
 
++ 2012 Free Response PDF file(76KB): [ap2012FRQ_CompSciA_Climb_Horse_Gray.pdf](/apcompsci3/assets/ap2012FRQ_CompSciA_Climb_Horse_Gray.pdf)
++ 2012 GrayImage BlueJ Project ZIP file(4.7KB): [2012GrayImage.zip](/apcompsci3/assets/2012GrayImage.zip)
+
+---
+
 + 2013 Free Response PDF file(207KB): [ap2013FRQ_CompSciA_Music_Token_Sky.pdf](/apcompsci3/assets/ap2013FRQ_CompSciA_Music_Token_Sky.pdf)
 + 2013 SkyView BlueJ Project ZIP file(4.6KB): [2013SkyView.zip](/apcompsci3/assets/2013SkyView.zip)
 
