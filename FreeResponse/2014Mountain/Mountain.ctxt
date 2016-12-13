@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=array\ stop
+comment0.target=boolean\ isIncreasing(int[],\ int)
+comment1.params=array\ start
+comment1.target=boolean\ isDecreasing(int[],\ int)
+comment2.params=array
+comment2.target=int\ getPeakIndex(int[])
+comment3.params=array
+comment3.target=boolean\ isMountain(int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
