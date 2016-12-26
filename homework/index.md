@@ -102,6 +102,12 @@ title: Homework Assignments
 
 ---
 
++ **Homework 12:** Due Tuesday, January 3, 2017
++ Creating a SchoolRoster class.
++ PDF file(52KB): [apCompSciHomework12.pdf](/apcompsci3/assets/apCompSciHomework12.pdf)
++ BlueJ Project ZIP file(9.2KB): [Homework12.zip](/apcompsci3/assets/Homework12.zip)
+
+---
 
 
 
