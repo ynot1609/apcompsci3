@@ -5,6 +5,11 @@ title: Free Response Questions
 
 ## AP Free Response Questions:
 
++ 2004 Free Response PDF file(98KB): [ap2004FRQ_CompSciA_WordList.pdf](/apcompsci3/assets/ap2004FRQ_CompSciA_WordList.pdf)
++ 2004 WordList BlueJ Project ZIP file(6.6KB): [2004WordList.zip](/apcompsci3/assets/2004WordList.zip)
+
+---
+
 + 2010 Free Response PDF file(56KB): [ap2010FRQ_CompSciA_Cookie_Trail.pdf](/apcompsci3/assets/ap2010FRQ_CompSciA_Cookie_Trail.pdf)
 + 2010 Trail BlueJ Project ZIP file(4KB): [2010Trail.zip](/apcompsci3/assets/2010Trail.zip)
 + 2010 CookieOrder BlueJ Project ZIP file(4KB): [2010CookieOrder.zip](/apcompsci3/assets/2010CookieOrder.zip)
