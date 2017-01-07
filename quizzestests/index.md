@@ -35,6 +35,13 @@ link, "Java Quiz 2: Syntax".
 
 ---
 
++ **Semester 1 Exam:** Friday, January 13, 2017
++ **This test will cover the following material:**
++ **Barron's Texbook:**
+  + Chapter 1: Java syntax
+  + Chapter 2: Classes and objects
+  + Chapter 4: Standard classes
+  + Chapter 6: Arrays and ArrayLists
 <!--
 + **Test 1:** Thursday, October 15, 2015
 + **This test will cover the following material:** Barron's Textbook, Chapter 1. Blue Pelican Textbook, Lessons 1, 2, 4, 8, 9, 11, 14.
