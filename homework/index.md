@@ -109,14 +109,12 @@ title: Homework Assignments
 
 ---
 
-<!--
 + **Homework 13(Winter Break Assignment):** Due Monday, February 20, 2017
 + Creating a Library class.
 + PDF file(55KB): [apCompSciHomework13.pdf](/apcompsci3/assets/apCompSciHomework13.pdf)
 + BlueJ Project ZIP file(10KB): [Homework13.zip](/apcompsci3/assets/Homework13.zip)
 
 ---
--->
 
 
 
