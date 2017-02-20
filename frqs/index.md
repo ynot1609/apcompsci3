@@ -37,6 +37,10 @@ title: Free Response Questions
 
 ---
 
+## Case Studies: Inheritance
+
+---
+
 ## Case Studies: Object-Oriented Programming
 
 + **The PiggyBank Class:**
