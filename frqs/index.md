@@ -39,8 +39,8 @@ title: Free Response Questions
 
 ## Case Studies: Inheritance
 
-+ **The CombinationLock Class**
-+ [combinationLock.pdf](/apcompsci3/assets/combinationLock.pdf)
++ **The CombinationLock Class:**
++ PDF file(512KB): [combinationLock.pdf](/apcompsci3/assets/combinationLock.pdf)
 
 ---
 
