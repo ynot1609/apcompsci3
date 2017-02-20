@@ -44,6 +44,11 @@ title: Free Response Questions
 
 ---
 
++ **The RaceHorse Class:**
++ PDF file(184KB): [raceHorse.pdf](/apcompsci3/assets/raceHorse.pdf)
+
+---
+
 ## Case Studies: Object-Oriented Programming
 
 + **The PiggyBank Class:**
