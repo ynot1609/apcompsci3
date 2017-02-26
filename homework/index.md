@@ -116,6 +116,11 @@ title: Homework Assignments
 
 ---
 
++ **Homework 14:** Due Monday, March 6, 2017
++ Transactions in a Department Store.
++ PDF file(76KB): [apCompSciHomework14.pdf](/apcompsci3/assets/apCompSciHomework14.pdf)
++ BlueJ Project ZIP file(7KB): [Homework14.zip](/apcompsci3/assets/Homework14.zip)
 
+---
 
 
