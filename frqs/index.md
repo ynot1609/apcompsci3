@@ -37,6 +37,13 @@ title: Free Response Questions
 
 ---
 
+## Case Studies: Abstract Classes
+
++ **The Donation Class:**
++ PDF file(142KB): [donation.pdf](/apcompsci3/assets/donation.pdf)
+
+---
+
 ## Case Studies: Inheritance
 
 + **The CombinationLock Class:**
