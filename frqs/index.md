@@ -44,6 +44,11 @@ title: Free Response Questions
 
 ---
 
++ **The Wages Class:**
++ PDF file(118KB): [wages.pdf](/apcompsci3/assets/wages.pdf)
+
+---
+
 ## Case Studies: Inheritance
 
 + **The CombinationLock Class:**
