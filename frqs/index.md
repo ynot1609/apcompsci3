@@ -37,6 +37,14 @@ title: Free Response Questions
 
 ---
 
+## Case Studies: Interfaces
+
++ **The College Class:**
++ PDF file(164KB): [college.pdf](/apcompsci3/assets/college.pdf)
++ BlueJ Project ZIP file(16KB): [HigherEducation.zip](/apcompsci3/assets/HigherEducation.zip)
+
+---
+
 ## Case Studies: Abstract Classes
 
 + **The Donation Class:**
