@@ -45,6 +45,12 @@ title: Free Response Questions
 
 ---
 
++ **The Employee Class:**
++ PDF file(142KB): [employee.pdf](/apcompsci3/assets/employee.pdf)
++ BlueJ Project ZIP file(7.6KB): [Worker.zip](/apcompsci3/assets/Worker.zip)
+
+---
+
 ## Case Studies: Abstract Classes
 
 + **The Donation Class:**
