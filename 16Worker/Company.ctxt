@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=age\ years\ salary
+comment0.target=Company(int,\ int,\ int)
+comment1.params=emp
+comment1.target=boolean\ employeeIsEligible(Employee)
+comment2.params=
+comment2.target=void\ processRetirements()
+comment3.params=e
+comment3.target=void\ addEmployee(Employee)
+comment4.params=
+comment4.target=java.util.ArrayList\ getEmployees()
+comment5.params=
+comment5.target=void\ calculateSalaryBudget()
+comment6.params=
+comment6.target=double\ getSalaryBudget()
+numComments=7
