@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CollegeGroup()
+comment1.params=collegeName\ newTuition
+comment1.target=void\ updateTuition(java.lang.String,\ int)
+comment2.params=region\ low\ high
+comment2.target=java.util.ArrayList\ getCollegeList(java.lang.String,\ int,\ int)
+comment3.params=c
+comment3.target=void\ addCollege(College)
+comment4.params=
+comment4.target=java.util.ArrayList\ getColleges()
+numComments=5
