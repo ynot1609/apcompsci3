@@ -18,16 +18,31 @@ public class Company
         retireSalary = salary;
     }
     
-    private boolean employeeIsEligible(Employee emp)
+    public boolean employeeIsEligible(Employee emp)
     {
         // YOUR CODE HERE
-        
+        if (emp.getAge() >= retireAge && emp.getYearsOnJob() >= retireYears && emp.getSalary() >= retireSalary)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
     
     public void processRetirements()
     {
         // YOUR CODE HERE
-        
+        for (int i = empList.size()-1; i >= 0; i--)
+        {
+            Employee member = empList.get(i);
+            if (employeeIsEligible(member) == true)
+            {
+                empList.remove(i);
+            }
+        }
+        calculateSalaryBudget();
     }
     
     public void addEmployee(Employee e)
