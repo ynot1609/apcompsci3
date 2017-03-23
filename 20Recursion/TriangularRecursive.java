@@ -17,4 +17,4 @@ public class TriangularRecursive
         int result = triangular(6);
         System.out.println("n = 6, triangle num = " + result);
     }
-}
+}   
