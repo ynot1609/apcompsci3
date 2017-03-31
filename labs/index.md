@@ -3,6 +3,9 @@ layout: default
 title: Labs
 ---
 ## Labs:
+
++ CS50x Puzzle Day 2017 PDF file(591KB): [packet.pdf](/apcompsci3/assets/packet.pdf)
+
 <!--
 + **Lab 1:** Magpie Lab, Activity 2
 + PDF file(89KB): [MagpieLabStudentGuidePages4to5.pdf](/apcompsci3/assets/MagpieLabStudentGuidePages4to5)
