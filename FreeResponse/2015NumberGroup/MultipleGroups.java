@@ -17,6 +17,13 @@ public class MultipleGroups implements NumberGroup
     public boolean contains(int num)
     {
         // YOUR CODE HERE
-        
+        for (NumberGroup item : groupList)
+        {
+            if (item.contains(num))
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }
